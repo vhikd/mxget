@@ -25,6 +25,6 @@ func Run(cmd *cobra.Command, args []string) {
 }
 
 func init() {
-	CmdServe.Flags().IntVar(&port, "port", 8080, "server listening port")
+	CmdServe.Flags().IntVar(&port, "port", 5050, "server listening port")
 	CmdServe.Run = Run
 }

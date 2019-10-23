@@ -1,4 +1,4 @@
-module github.com/winterssy/mxget
+module github.com/vhikd/mxget
 
 go 1.13
 
