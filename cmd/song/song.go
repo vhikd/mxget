@@ -3,8 +3,8 @@ package song
 import (
 	"github.com/spf13/cobra"
 	"github.com/winterssy/easylog"
-	"github.com/winterssy/mxget/internal/cli"
-	"github.com/winterssy/mxget/internal/settings"
+	"github.com/vhikd/mxget/internal/cli"
+	"github.com/vhikd/mxget/internal/settings"
 )
 
 var (

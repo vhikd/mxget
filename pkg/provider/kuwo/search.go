@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/winterssy/mxget/pkg/provider"
+	"github.com/vhikd/mxget/pkg/provider"
 	"github.com/winterssy/sreq"
 )
 

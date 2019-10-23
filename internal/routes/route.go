@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/winterssy/mxget/internal/routes/api"
+	"github.com/vhikd/mxget/internal/routes/api"
 )
 
 func Init(router *gin.Engine) {

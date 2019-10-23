@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/cobra"
-	"github.com/winterssy/mxget/internal/routes"
+	"github.com/vhikd/mxget/internal/routes"
 )
 
 var (

@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/winterssy/mxget/pkg/cryptography"
+	"github.com/vhikd/mxget/pkg/cryptography"
 )
 
 const (

@@ -2,14 +2,14 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/winterssy/mxget/cmd/album"
-	"github.com/winterssy/mxget/cmd/artist"
-	"github.com/winterssy/mxget/cmd/config"
-	"github.com/winterssy/mxget/cmd/playlist"
-	"github.com/winterssy/mxget/cmd/search"
-	"github.com/winterssy/mxget/cmd/serve"
-	"github.com/winterssy/mxget/cmd/song"
-	"github.com/winterssy/mxget/internal/settings"
+	"github.com/vhikd/mxget/cmd/album"
+	"github.com/vhikd/mxget/cmd/artist"
+	"github.com/vhikd/mxget/cmd/config"
+	"github.com/vhikd/mxget/cmd/playlist"
+	"github.com/vhikd/mxget/cmd/search"
+	"github.com/vhikd/mxget/cmd/serve"
+	"github.com/vhikd/mxget/cmd/song"
+	"github.com/vhikd/mxget/internal/settings"
 )
 
 const (

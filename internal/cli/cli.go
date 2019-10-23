@@ -9,10 +9,10 @@ import (
 
 	"github.com/bogem/id3v2"
 	"github.com/winterssy/easylog"
-	"github.com/winterssy/mxget/internal/settings"
-	"github.com/winterssy/mxget/pkg/concurrency"
-	"github.com/winterssy/mxget/pkg/provider"
-	"github.com/winterssy/mxget/pkg/utils"
+	"github.com/vhikd/mxget/internal/settings"
+	"github.com/vhikd/mxget/pkg/concurrency"
+	"github.com/vhikd/mxget/pkg/provider"
+	"github.com/vhikd/mxget/pkg/utils"
 	"github.com/winterssy/sreq"
 )
 

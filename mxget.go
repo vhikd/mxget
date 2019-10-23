@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/winterssy/mxget/cmd"
+	"github.com/vhikd/mxget/cmd"
 )
 
 func main() {

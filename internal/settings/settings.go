@@ -8,12 +8,12 @@ import (
 	"path/filepath"
 
 	"github.com/winterssy/easylog"
-	"github.com/winterssy/mxget/pkg/provider"
-	"github.com/winterssy/mxget/pkg/provider/kugou"
-	"github.com/winterssy/mxget/pkg/provider/kuwo"
-	"github.com/winterssy/mxget/pkg/provider/migu"
-	"github.com/winterssy/mxget/pkg/provider/netease"
-	"github.com/winterssy/mxget/pkg/provider/qq"
+	"github.com/vhikd/mxget/pkg/provider"
+	"github.com/vhikd/mxget/pkg/provider/kugou"
+	"github.com/vhikd/mxget/pkg/provider/kuwo"
+	"github.com/vhikd/mxget/pkg/provider/migu"
+	"github.com/vhikd/mxget/pkg/provider/netease"
+	"github.com/vhikd/mxget/pkg/provider/qq"
 )
 
 const (
